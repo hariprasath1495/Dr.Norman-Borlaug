@@ -1,0 +1,54 @@
+header{
+    text-align:center;
+    font-style: initial;
+    line-height: 30px;
+    font-size:50;
+    padding:20px 20px 50px 20px;
+    
+}
+.bckground{
+    background-color: lightgrey;
+}
+.image{
+margin:3rem auto;
+width:1800px;
+text-align: center;
+background-color: white;
+padding-top: 100px;
+
+}
+
+figcaption{
+    text-align: center;
+}
+
+.tribute
+{
+    margin:3rem auto;
+    width:500px;
+}
+
+.line-aligment
+{
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+.points {
+    background-color: lightgrey;
+}
+
+.itialic-model{
+    margin:3rem auto;
+    width:500px;
+    font-style: italic;}
+
+    .footer{
+        text-align: center;
+    }
+    .bkgrd-full{
+        background-color: lightgray;
+    }
